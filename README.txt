@@ -82,6 +82,15 @@ To set the seller's name, highlight their name in the game client (without the @
 * Standalone - Sets the PoE client to be used as the Standalone version 'PathOfExile_x64.exe' and then reloads the program.
 
 
+### DONATIONS
+
+If you like this tool and you want to make a donation because of it, you can do so at https://paypal.me/BreachedDev . Thank you very much in advance, it is much appreciated.
+
+Also if you'd like to show you're appreciation with in-game currency donations, please let me know. Having seen a decrease in profits from making this tool widely available this would be very much appreciated, however, please do not feel you have to in the slightest.
+
+Donations of any kind are not required however, they are just if you like the program and want to show your appreciation. If not then it is perfectly fine as the most important thing is that I've been able to develop something you can enjoy and that benefits you.
+
+
 ### NOTICE
 
 Thank you for using PoE Currency Flipper. Please contact me if you have any feedback. If you like this tool and you want to make a donation because of it, please go to: paypal.me/BreachedSD
