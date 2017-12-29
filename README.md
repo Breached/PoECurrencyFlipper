@@ -87,7 +87,7 @@ Donations of any kind are not required however, they are just if you like the pr
 
 ### NOTICE
 
-Thank you for using PoE Currency Flipping Tool. Please contact me if you have any feedback. If you like this tool and you want to make a donation because of it, please go to: paypal.me/BreachedSD
+Thank you for using PoE Currency Flipping Tool. Please contact me if you have any feedback.
 
 Copyright (C) 2017-2018 Breached <breachedsd@outlook.com>
  
