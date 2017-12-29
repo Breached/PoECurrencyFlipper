@@ -91,6 +91,7 @@ Also if you'd like to show you're appreciation with in-game currency donations, 
 Donations of any kind are not required however, they are just if you like the program and want to show your appreciation. If not then it is perfectly fine as the most important thing is that I've been able to develop something you can enjoy and that benefits you.
 
 
+
 ### NOTICE
 
 Thank you for using PoE Currency Flipper. Please contact me if you have any feedback. If you like this tool and you want to make a donation because of it, please go to: paypal.me/BreachedSD
