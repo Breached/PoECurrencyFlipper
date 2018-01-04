@@ -6,7 +6,7 @@
  * PoE Currency Flipper can not be copied, modified and/or distributed without the express
  * permission of Breached. In the case of the Advanced variant of PoE Currency Flipper, only
  * those who have express permission from Breached can use it. Payment is required in order
- * to use the Advanced variant of PoE Currency Flipper. The Basic variant is free to use.
+ * to use the Advanced variant of PoE Currency Flipper. The Lite variant is free to use.
  *******************************************************/
 
 # PoE Currency Flipper   
